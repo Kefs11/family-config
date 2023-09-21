@@ -1,0 +1,34 @@
+@@ -0,0 +1,37 @@
+name: El Salvador 503
+key: ES503
+color: Red
+emblem: Bamboo_04
+sort: Trophy
+info:
+  logo: /static/img/brands/logo/ES503.svg 
+  description: >
+    **Competitive excellence through community-driven values.**
+    CLAN TOP GLOBAL Y LOCAL. Grupo de WhatsApp. CANTERAS El Salvador (2) hasta (10). TORNEOS SEMANALES POR PASS. .
+  social:
+
+clans:
+  - name: El Salvador (2)
+    tag: LCUYQ0GP
+  - name: El Salvador (3)
+    tag: LVL8V8JY
+  - name: El Salvador (4)
+    tag: Q0Q2JRYG
+  - name: El Salvador (5)
+    tag: Q200R8YV
+  - name: El Salvador (6)
+    tag: QJ9UJRUP
+  - name: El Salvador (7)
+    tag: Q0Y0RJ0R
+  - name: El Salvador (8)
+    tag: GRLPLR9U
+  - name: El Salvador (9)
+    tag: GQ89UY20
+  - name: El Salvador(10)
+    tag: QPJJJ8G
+  - name: El Salvador(11)
+    tag: GORPPYYC
